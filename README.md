@@ -22,7 +22,6 @@ I work at the intersection of Natural Language Processing, Human-Computer Intera
 ## Selected Work
 
 - "Latent Preference Modeling for Cross-Session Personalized Tool Calling" - Under Review
-- "Comparison of Rubric Strategies for LLM-as-a-Judge in Korean" - KCC 2026
 - "Beyond Task-Oriented and Chitchat Dialogues: Proactive and Transition-Aware Conversational Agents" - EMNLP 2025
 - "Exploring Modular Prompt Design for Emotion and Mental Health Recognition" - CHI 2025
 
