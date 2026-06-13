@@ -29,9 +29,9 @@ My broader goal is to develop human-centered language technologies that support 
 
 ## Selected Work
 
-- "Latent Preference Modeling for Cross-Session Personalized Tool Calling" - Under Review
-- "Beyond Task-Oriented and Chitchat Dialogues: Proactive and Transition-Aware Conversational Agents" - EMNLP 2025
-- "Exploring Modular Prompt Design for Emotion and Mental Health Recognition" - CHI 2025
+- ["Latent Preference Modeling for Cross-Session Personalized Tool Calling"](https://arxiv.org/pdf/2604.17886v1) - Under Review
+- ["Beyond Task-Oriented and Chitchat Dialogues: Proactive and Transition-Aware Conversational Agents"](https://aclanthology.org/2025.emnlp-main.672/) - EMNLP 2025
+- ["Exploring Modular Prompt Design for Emotion and Mental Health Recognition"](https://dl.acm.org/doi/full/10.1145/3706598.3713888) - CHI 2025
 
 ## Links
 
