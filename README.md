@@ -36,6 +36,7 @@ My broader goal is to develop human-centered language technologies that support 
 ## Links
 
 - Website: [er1123090.github.io](https://er1123090.github.io/)
+- CV: [Document](https://drive.google.com/open?id=1gFWzfHN4OFVe0zYKHBv3wis-K48punGLrZ7Q6xbkFGQ)
 - Google Scholar: [Profile](https://scholar.google.com/citations?user=bZFv4dYAAAAJ&hl=en)
 - LinkedIn: [minseo-kim-878526276](https://www.linkedin.com/in/minseo-kim-878526276/)
 - X: [@er1123090](https://x.com/er1123090)
