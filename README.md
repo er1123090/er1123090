@@ -14,16 +14,15 @@ Member of [HYU NLP Lab](https://sites.google.com/view/hyu-nlp/), advised by [Pro
 
 I am a Master's student in Artificial Intelligence at Hanyang University and a member of [HYU NLP Lab](https://sites.google.com/view/hyu-nlp/), advised by [Prof. Taeuk Kim](https://scholar.google.com/citations?user=eH5uq7wAAAAJ&hl=ko). My research lies at the intersection of Natural Language Processing, Human-Computer Interaction, and empirical AI alignment, with a focus on the reliability of preference signals in LLM-based systems.
 
-My research centers on understanding and improving how LLM-based systems capture, evaluate, and act on human preferences. I have a long-standing interest in human preference modeling, personalization, human alignment, evaluation, and LLM-as-a-Judge. In particular, I study how evaluation frameworks and agentic systems can better reflect human judgments, adapt to individual users, and make decisions that are reliable, interpretable, and aligned with human values.
+My research investigates how LLM-based systems can make reliable decisions in subjective settings. I focus on studying **human preference modeling**, **rubric-based evaluation**, and the use of **evaluation signals as rewards** in reinforcement learning.
 
-My broader goal is to develop human-centered language technologies that support personalized and trustworthy interactions between people and AI systems.
+My broader goal is to develop human-centered language technologies that support interpretable and trustworthy interactions between people and AI systems.
 
 ## 🧠 Research Interests
 
-- Human preference and personalization
-- Human alignment and human-centered AI
-- LLM evaluation and LLM-as-a-Judge
-- Rubric-based evaluation and reward reliability
+- Verifiability and non-verifiable task evaluation
+- Human preference modeling and alignment
+- Rubric-based evaluation and reward reliability in reinforcement learning
 - Memory-augmented and tool-using LLM agents
 - Dialogue systems and interactive AI
 
